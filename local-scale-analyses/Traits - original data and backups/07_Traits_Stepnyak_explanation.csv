@@ -1,0 +1,21 @@
+trait,categories,coding,source(s)
+LDMC,,num,Mean LDMC values calculated by Rike (mg/g)
+SLA,,num,Mean SLA values calculated by Rike (mm²/g)
+Life history,annual,fuzzy,flora USSR and floraweb.de
+,biennial,fuzzy,flora USSR and floraweb.de
+,perennial,fuzzy,flora USSR and floraweb.de
+Growth form,grass,fuzzy,"own classification. Woody forbs are woody at the base, such like Artemisia nitrosa"
+,forb,fuzzy,
+,woody forb,fuzzy,
+,dwarf shrub,fuzzy,
+clonality ,1/0,binary,CloPla3.3 export. Not to be used
+Clonal Strategy,none,fuzzy,"inspired by Chillo, Ojeda 2014. Classified using Flora USSR, web-photos and own photos/field experience."
+,guerilla,fuzzy,
+,phalanx,fuzzy,
+Lateral spread,rhizome,fuzzy,"inspired by Chillo, Ojeda 2014. Classified using Flora USSR, web-photos and own photos/field experience. Rosette plants were classified as single shoot plants"
+,single shoot,fuzzy,
+,several shoots,fuzzy,
+,tussock,fuzzy,
+Leaf Distribution,rosette,fuzzy,"inspired by Diaz et al. 2001. Classified using Flora USSR, web-photos and own photos/field experience."
+,leafy stem,fuzzy,
+Height,mean_height,num,"Data was compiled subsequently by first taking own measurements from the Stepnyak TA (at least 4, up to >500 ind.), then measurements from the BALTRAK transect (Rike), at the lastest from Measurements from Tatyana Sidorova from the years 2012 and 2010, then Flora USSR and LEDA. In case of Flora USSR; I used (accordingly to Rike) the 25% quantile between min and max height"
